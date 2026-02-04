@@ -109,6 +109,7 @@ Mac RSS Feed Catalogue: https://www.cyberseo.net/public-rss-feed-catalogue/Mac/<
 NHS Digital Cyber Alerts Feed: https://digital.nhs.uk/feed/cyber-alerts-feed.xml<br />
 HCS White Papers: https://hcsonline.com/support/resources/white-papers?format=feed&catid=43<br />
 Apple News: https://developer.apple.com/news/releases/rss/releases.rss<br />
+Apple Community Bookmarks: https://github.com/cbookmarks/bookmarks/blob/main/Apple_Community_Bookmarks.html<br />
 
 ## 📺 YouTube/Video Channels<br />
 ### Conferences & Events<br />
