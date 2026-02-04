@@ -91,6 +91,7 @@ JAMF After Dark<br />
 PSU MacAdmins Conference: https://macadmins.psu.edu/ | Resources: https://macadmins.psu.edu/conference/resources/<br />
 MacSysAdmin (Sweden): https://www.macsysadmin.se/<br />
 MacAD.UK: https://macad.uk/<br />
+Mac Admins Europe: https://macadmins-eu.org/<br />
 
 ## 📡 Miscellaneous & RSS Feeds<br />
 General Tech RSS List: https://lapcatsoftware.com/articles/RSS.html<br />
