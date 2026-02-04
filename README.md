@@ -5,7 +5,7 @@ A curated collection of essential links, blogs, tools, and communities for Apple
 ##📰 News & Aggregators<br />
 MacAdmins.news: https://macadmins.news/<br />
 MacSurfer: https://www.macsurfer.com/<br />
-MacRumors: https://www.macrumors.com/< br />
+MacRumors: https://www.macrumors.com/<br />
 9to5Mac: https://9to5mac.com/<br />
 MacHash: https://machash.com/<br />
 Apple News (RSS): https://developer.apple.com/news/releases/rss/releases.rss<br />
