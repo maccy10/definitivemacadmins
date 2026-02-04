@@ -2,6 +2,8 @@
 
 A curated collection of essential links, blogs, tools, and communities for Apple systems administrators.
 
+This list is maintained by the community. Please suggest additions or corrections.
+
 ## 📰 News & Aggregators<br />
 MacAdmins.news: https://macadmins.news/<br />
 MacSurfer: https://www.macsurfer.com/<br />
@@ -125,5 +127,3 @@ Twin Cities Mac Admins: https://www.youtube.com/@twincitiesmacadmins5763<br />
 ### Apple & General Tech<br />
 Mr. Macintosh: https://www.youtube.com/channel/UC7FRPWLwRlhORhFHHywfqAg<br />
 Romina Gafur: https://www.youtube.com/@romina<br />
-
-This list is maintained by the community. Please suggest additions or corrections.
