@@ -44,13 +44,76 @@ SimpleMDM Blog: https://simplemdm.com/blog/popular-open-source-tools-for-mac-adm
 
 ## 🛠️ Tools, Utilities & Scripts<br />
 Awesome MacAdmin Tools: https://github.com/smashism/awesome-macadmin-tools<br />
+ADEPT: https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse<br />
+Amphetamine: https://itunes.apple.com/app/amphetamine/id937984704?mt=12<br />
+Apparency: https://www.mothersruin.com/software/Apparency/<br />
+AppCleaner: https://freemacsoft.net/appcleaner/<br />
+AutoPkg: https://github.com/autopkg/autopkg<br />
+AutoPkgr: https://github.com/lindegroup/autopkgr<br />
+Baseline: https://github.com/secondsonconsulting/baseline<br />
+BBEdit: https://www.barebones.com/products/bbedit/<br />
+CodeLobster: https://codelobster.com/<br />
+Coderunner 4: https://coderunnerapp.com/download<br />
+Composer: https://www.jamf.com/products/jamf-composer/<br />
+DEP Notify: https://gitlab.com/Mactroll/DEPNotify<br />
+erase-install: https://github.com/grahampugh/erase-install<br />
+Escrow Buddy: https://github.com/macadmins/escrow-buddy<br />
+getmacosipsws.py: https://github.com/munki/macadmin-scripts<br />
+Giphy Capture: https://itunes.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12<br />
+Google Keep: https://www.google.com/keep/<br />
+Hello-IT: https://github.com/ygini/Hello-IT<br />
+Icons.app: https://github.com/SAP/macOS-icon-generator<br />
+iMazing Profile Editor: https://imazing.com/profile-editor<br />
+installinstallmacos.py: https://github.com/munki/macadmin-scripts<br />
+Jamf Compliance Editor: https://trusted.jamf.com/docs/establishing-compliance-baselines<br />
+Jamf Migrator: https://github.com/jamf/JamfMigrator<br />
+Jamf Setup Manager: https://github.com/Jamf-Concepts/Setup-Manager<br />
+Low Profile: https://github.com/ninxsoft/LowProfile<br />
+MacDNA: https://github.com/jhbush/Arek/tree/master/Development/MacDNA%20Menulet<br />
+MacDown: https://macdown.uranusjr.com/<br />
+macOS Security Compliance Project: https://github.com/usnistgov/macos_security<br />
+MIST – macOS Installer Super Tool: https://github.com/ninxsoft/Mist<br />
+moss: https://github.com/WardsParadox/moss<br />
+munki-pkg: https://github.com/munki/munki-pkg<br />
+NoMAD: https://nomad.menu/products/#nomad<br />
+Nova: https://nova.app/<br />
+Nudge: https://github.com/macadmins/nudge<br />
+Packages.app: http://s.sudre.free.fr/Software/Packages/about.html<br />
+Pareto Security: https://paretosecurity.app/<br />
+Particulars: https://particulars.app<br />
+Patchomator: https://github.com/Mac-Nerd/patchomator<br />
+Payload-Free Package Creator: https://github.com/rtrouton/Payload-Free-Package-Creator<br />
+PPPC Utility: https://github.com/jamf/PPPC-Utility<br />
+Postman: https://www.postman.com/downloads/<br />
+PrinterSetup: https://github.com/mikaellofgren/PrinterSetup<br />
+Prune: https://github.com/BIG-RAT/Prune<br />
+ProfileCreator: https://github.com/ProfileCreator/ProfileCreator<br />
+Recategorizer: https://github.com/sheagcraig/Recategorizer<br />
+Rectangle: https://rectangleapp.com/<br />
+Script2Pkg: https://github.com/SAP/script-to-package-tool-for-macos<br />
+scriptorium: https://github.com/Honestpuck/scriptorium<br />
+Slack: https://slack.com/downloads/osx<br />
+SOFA: https://sofa.macadmins.io/<br />
+Stronghold: https://github.com/alichtman/stronghold<br />
+Sublime Text: https://www.sublimetext.com/<br />
+SupportApp: https://github.com/root3nl/SupportApp<br />
+Suspicious Package: https://www.mothersruin.com/software/SuspiciousPackage/<br />
+sus-inspector: https://github.com/hjuutilainen/sus-inspector<br />
+swiftDialog: https://github.com/swiftDialog/swiftDialog<br />
+Taskade: https://taskade.com/<br />
+The MUT: https://apps.apple.com/us/app/the-mut/id1133234759<br />
+Trello: https://trello.com/<br />
+umad: https://github.com/macadmins/umad<br />
+vfuse: https://github.com/chilcote/vfuse<br />
+Visual Studio Code: https://code.visualstudio.com/<br />
+Xcode: https://itunes.apple.com/us/app/xcode/id497799835?mt=12<br />
+Yo: https://github.com/sheagcraig/yo<br />
 Scott Kendall: https://github.com/ScottEKendall/JAMF-Pro-Scripts<br />
 MacAdmins Open Source (macadmins.io): https://github.com/macadmins/macadmins.io<br />
-JAMF Open Source:<br />
-Main: https://github.com/jamf<br />
+Jamf Open Source:https://github.com/jamf<br />
 PPPC Utility: https://github.com/jamf/PPPC-Utility<br />
 Aftermath: https://github.com/jamf/aftermath<br />
-JAMF Automation & Webhook Assistant (JAWA): https://github.com/jamf/JAWA<br />
+Jamf Automation & Webhook Assistant (JAWA): https://github.com/jamf/JAWA<br />
 MIST (macOS Installer Super Tool): https://github.com/ninxsoft/Mist<br />
 S.U.P.E.R.M.A.N.: https://github.com/Macjutsu/super<br />
 Bash OneLiner: https://github.com/onceupon/Bash-Oneliner<br />
