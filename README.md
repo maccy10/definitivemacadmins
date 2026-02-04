@@ -2,12 +2,12 @@
 
 A curated collection of essential links, blogs, tools, and communities for Apple systems administrators.
 
-##📰 News & Aggregators
-MacAdmins.news: https://macadmins.news/
-MacSurfer: https://www.macsurfer.com/
-MacRumors: https://www.macrumors.com/
-9to5Mac: https://9to5mac.com/
-MacHash: https://machash.com/
+##📰 News & Aggregators< br / >
+MacAdmins.news: https://macadmins.news/< br / >
+MacSurfer: https://www.macsurfer.com/< br / >
+MacRumors: https://www.macrumors.com/< br / >
+9to5Mac: https://9to5mac.com/< br / >
+MacHash: https://machash.com/< br / >
 Apple News (RSS): https://developer.apple.com/news/releases/rss/releases.rss
 
 ##📝 Blogs & Articles
