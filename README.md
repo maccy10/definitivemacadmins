@@ -26,6 +26,7 @@ OSX Daily: https://osxdaily.com/<br />
 Big Mac Admin: https://bigmacadmin.wordpress.com/<br />
 MacLabs: https://maclabs.jazzace.ca/<br />
 MacOS Adventures: https://www.macosadventures.com/<br />
+Patch Notes & Progress: https://tonyyo11.github.io/<br />
 
 ## Blog Aggregators & Lists<br />
 MacAdmin Blogs via Feedspot: https://bloggers.feedspot.com/mac_blogs/<br />
