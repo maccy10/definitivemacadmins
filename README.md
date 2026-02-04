@@ -94,7 +94,7 @@ Jamf Support Portal: http://support.jamf.com<br />
 
 ## 🎤 Podcasts<br />
 MacAdmins Podcast: https://podcasts.apple.com/us/podcast/macadmins-podcast/id1238495116<br />
-JAMF After Dark<br />
+Jamf After Dark: https://jamfafterdark.libsyn.com/<br />
 
 ## 🗓️ Conferences<br />
 PSU MacAdmins Conference: https://macadmins.psu.edu/ | Resources: https://macadmins.psu.edu/conference/resources/<br />
@@ -116,7 +116,7 @@ MacAdmins Conference: https://www.youtube.com/@MacAdmins<br />
 MacAD.UK: https://www.youtube.com/@MacADUK<br />
 
 ### MDM & Solution Providers<br />
-JAMF: https://www.youtube.com/@JAMFMedia<br />
+Jamf: https://www.youtube.com/@JAMFMedia<br />
 Addigy: https://www.youtube.com/@addigy<br />
 Microsoft Intune: https://www.youtube.com/@intuneforeducationcustomer4969<br />
 Kandji: https://www.youtube.com/@KandjiOfficial<br />
