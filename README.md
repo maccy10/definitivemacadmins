@@ -8,7 +8,7 @@ MacSurfer: https://www.macsurfer.com/<br />
 MacRumors: https://www.macrumors.com/< br />
 9to5Mac: https://9to5mac.com/<br />
 MacHash: https://machash.com/<br />
-Apple News (RSS): https://developer.apple.com/news/releases/rss/releases.rss
+Apple News (RSS): https://developer.apple.com/news/releases/rss/releases.rss<br />
 
 ##📝 Blogs & Articles<br />
 Scripting OS X: https://scriptingosx.com/<br />
