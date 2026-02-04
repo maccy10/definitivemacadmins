@@ -8,7 +8,6 @@ MacSurfer: https://www.macsurfer.com/<br />
 MacRumors: https://www.macrumors.com/<br />
 9to5Mac: https://9to5mac.com/<br />
 MacHash: https://machash.com/<br />
-Apple News (RSS): https://developer.apple.com/news/releases/rss/releases.rss<br />
 
 ## 📝 Blogs & Articles<br />
 Scripting OS X: https://scriptingosx.com/<br />
@@ -88,6 +87,18 @@ Jamf Support Portal: http://support.jamf.com<br />
 MacAdmins Podcast: https://podcasts.apple.com/us/podcast/macadmins-podcast/id1238495116<br />
 JAMF After Dark<br />
 
+## 🗓️ Conferences<br />
+PSU MacAdmins Conference: https://macadmins.psu.edu/ | Resources: https://macadmins.psu.edu/conference/resources/<br />
+MacSysAdmin (Sweden): https://www.macsysadmin.se/<br />
+MacAD.UK: https://macad.uk/<br />
+
+## 📡 Miscellaneous & RSS Feeds<br />
+General Tech RSS List: https://lapcatsoftware.com/articles/RSS.html<br />
+Mac RSS Feed Catalogue: https://www.cyberseo.net/public-rss-feed-catalogue/Mac/<br />
+NHS Digital Cyber Alerts Feed: https://digital.nhs.uk/feed/cyber-alerts-feed.xml<br />
+HCS White Papers: https://hcsonline.com/support/resources/white-papers?format=feed&catid=43<br />
+Apple News: https://developer.apple.com/news/releases/rss/releases.rss<br />
+
 ## 📺 YouTube/Video Channels<br />
 ### Conferences & Events<br />
 MacAdmins Conference: https://www.youtube.com/@MacAdmins<br />
@@ -113,16 +124,5 @@ Twin Cities Mac Admins: https://www.youtube.com/@twincitiesmacadmins5763<br />
 ### Apple & General Tech<br />
 Mr. Macintosh: https://www.youtube.com/channel/UC7FRPWLwRlhORhFHHywfqAg<br />
 Romina Gafur: https://www.youtube.com/@romina<br />
-
-## 🗓️ Conferences<br />
-PSU MacAdmins Conference: https://macadmins.psu.edu/ | Resources: https://macadmins.psu.edu/conference/resources/<br />
-MacSysAdmin (Sweden): https://www.macsysadmin.se/<br />
-MacAD.UK: https://macad.uk/<br />
-
-## 📡 Miscellaneous & RSS Feeds<br />
-General Tech RSS List: https://lapcatsoftware.com/articles/RSS.html<br />
-Mac RSS Feed Catalogue: https://www.cyberseo.net/public-rss-feed-catalogue/Mac/<br />
-NHS Digital Cyber Alerts Feed: https://digital.nhs.uk/feed/cyber-alerts-feed.xml<br />
-HCS White Papers (RSS): https://hcsonline.com/support/resources/white-papers?format=feed&catid=43<br />
 
 This list is maintained by the community. Please suggest additions or corrections.
