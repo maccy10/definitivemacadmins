@@ -12,6 +12,11 @@ MacRumors: https://www.macrumors.com/<br />
 MacHash: https://machash.com/<br />
 
 ## 📝 Blogs & Articles<br />
+Dan K. Snelson: https://snelson.us<br />
+Kitzy: https://kitzy.com<br />
+Neil Martin | Sound Mac Guy: https://soundmacguy.wordpress.com<br />
+Tom Bridge | Cannonball: https://tombridge.com<br />
+Scott Blake | MacAdmin Musings: https://macadminmusings.com<br />
 Scripting OS X: https://scriptingosx.com/<br />
 Der Flounder: https://derflounder.wordpress.com/<br />
 MacMule: https://macmule.com/<br />
@@ -31,7 +36,7 @@ Patch Notes & Progress: https://tonyyo11.github.io/<br />
 ## Blog Aggregators & Lists<br />
 MacAdmin Blogs via Feedspot: https://bloggers.feedspot.com/mac_blogs/<br />
 Feedly Top Mac Admin Blogs: https://feedly.com/i/top/mac-admin-blogs<br />
-Community Resources List (JAMF): https://community.jamf.com/tech-thoughts-180/community-is-valuable-a-list-of-my-favorite-community-resources-53430<br />
+Community Resources List (Jamf): https://community.jamf.com/tech-thoughts-180/community-is-valuable-a-list-of-my-favorite-community-resources-53430<br />
 
 ## MDM & Vendor Blogs<br />
 Official JAMF Blog: https://www.jamf.com/blog/<br />
@@ -39,6 +44,7 @@ SimpleMDM Blog: https://simplemdm.com/blog/popular-open-source-tools-for-mac-adm
 
 ## 🛠️ Tools, Utilities & Scripts<br />
 Awesome MacAdmin Tools: https://github.com/smashism/awesome-macadmin-tools<br />
+Scott Kendall: https://github.com/ScottEKendall/JAMF-Pro-Scripts<br />
 MacAdmins Open Source (macadmins.io): https://github.com/macadmins/macadmins.io<br />
 JAMF Open Source:<br />
 Main: https://github.com/jamf<br />
@@ -95,6 +101,7 @@ PSU MacAdmins Conference: https://macadmins.psu.edu/ | Resources: https://macadm
 MacSysAdmin (Sweden): https://www.macsysadmin.se/<br />
 MacAD.UK: https://macad.uk/<br />
 Mac Admins Europe: https://macadmins-eu.org/<br />
+Mac Admins India: https://conference.macadmins.in<br />
 
 ## 📡 Miscellaneous & RSS Feeds<br />
 General Tech RSS List: https://lapcatsoftware.com/articles/RSS.html<br />
