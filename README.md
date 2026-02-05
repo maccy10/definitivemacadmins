@@ -250,7 +250,7 @@ Mr. Macintosh: https://www.youtube.com/channel/UC7FRPWLwRlhORhFHHywfqAg<br />
 Romina Gafur: https://www.youtube.com/@romina<br />
 
 # Thanks & Appreciation
-Please also visit this excellent resource<br />
+Please also visit this excellent resource!<br />
 The Apple Community Bookmarks: https://github.com/cbookmarks/bookmarks/tree/main
 
 
