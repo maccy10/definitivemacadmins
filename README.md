@@ -201,7 +201,7 @@ Jamf Feature Requests: http://ideas.jamf.com<br />
 Jamf Training Catalog: http://trainingcatalog.jamf.com<br />
 Jamf Support Portal: http://support.jamf.com<br />
 Jamf Account: https://account.jamf.com/<br />
-Jamf Heroes: https://heroes.jamf.com / or https://community.jamf.com/t5/jamf-heroes-customers/gh-p/JamfHeroesCustomers<br /> 
+Jamf Heroes: https://community.jamf.com/t5/jamf-heroes-customers/gh-p/JamfHeroesCustomers<br /> 
 Jamf Status: https://status.jamf.com<br />
 Jamf GitHub: https://jamf.github.io<br /> 
 Jamf Ideas: https://ideas.jamf.com<br /> 
