@@ -24,7 +24,6 @@ Mr. Macintosh: https://mrmacintosh.com/<br />
 Travelling Tech Guy: https://travellingtechguy.blog/<br />
 The Eclectic Light Company: https://eclecticlight.co/<br />
 Objective-See Blog: https://objective-see.com/blog.html<br />
-Krypted: https://krypted.com/<br />
 The Mitten Mac: https://themittenmac.com/blog/<br />
 Modtitan: https://www.modtitan.com/<br />
 OSX Daily: https://osxdaily.com/<br />
@@ -32,6 +31,7 @@ Big Mac Admin: https://bigmacadmin.wordpress.com/<br />
 MacLabs: https://maclabs.jazzace.ca/<br />
 MacOS Adventures: https://www.macosadventures.com/<br />
 Patch Notes & Progress: https://tonyyo11.github.io/<br />
+Kevin M. Cox: https://www.kevinmcox.com<br />
 
 ## Blog Aggregators & Lists<br />
 MacAdmin Blogs via Feedspot: https://bloggers.feedspot.com/mac_blogs/<br />
@@ -55,7 +55,6 @@ BBEdit: https://www.barebones.com/products/bbedit/<br />
 CodeLobster: https://codelobster.com/<br />
 Coderunner 4: https://coderunnerapp.com/download<br />
 Composer: https://www.jamf.com/products/jamf-composer/<br />
-DEP Notify: https://gitlab.com/Mactroll/DEPNotify<br />
 erase-install: https://github.com/grahampugh/erase-install<br />
 Escrow Buddy: https://github.com/macadmins/escrow-buddy<br />
 getmacosipsws.py: https://github.com/munki/macadmin-scripts<br />
