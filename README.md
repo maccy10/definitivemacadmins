@@ -185,12 +185,14 @@ NIST Vulnerability Data Feeds (RSS): https://nvd.nist.gov/vuln/data-feeds#RSS<br
 CISA Known Exploited Vulnerabilities: https://www.cisa.gov/known-exploited-vulnerabilities-catalog<br />
 Apple Allowed Autofill Domains: https://github.com/b0o/apple-autofill-domains<br />
 
-## 🤝 Communities & Social<br />
+## 🤝 Communities, User Groups & Social<br />
 MacAdmins Slack: [https://www.macadmins.org/](https://join.slack.com/t/macadmins/shared_invite/zt-3ok3rukoj-ziZeIXzbqP~_65HM3R53Yw)<br />
 MacAdmins.org: https://www.macadmins.org/<br />
 Mac Admins Open Source: https://macadmins.io/<br />
 Microsoft Mac Admins Community: https://aka.ms/MacAdmins<br />
 London Apple Admins: https://londonappleadmins.org.uk<br />
+East Midlands Apple Admins: https://community.jamf.com/groups/east-midlands-apple-admins-uk-29<br />
+Mac Admins India: https://macadmins.in<br />
 
 ## Reddit<br />
 r/macsysadmin: https://www.reddit.com/r/macsysadmin/ (RSS: https://www.reddit.com/r/macsysadmin/.rss)<br />
