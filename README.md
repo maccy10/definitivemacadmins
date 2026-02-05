@@ -33,7 +33,7 @@ Apple Business Manager User Guide - Apple Support: https://support.apple.com/gui
 Apple Configurator - Official Apple Support: https://support.apple.com/apple-configurator<br />
 Apple Deployment Tutorials: https://it-training.apple.com/tutorials/apt-deployment<br />
 Apple Developer Custom Apps: https://developer.apple.com/custom-apps/<br />
-Apple Developer - Device Management: https://developer.apple.com/documentation/devicemanagement?language=objc
+Apple Developer - Device Management: https://developer.apple.com/documentation/devicemanagement?language=objc<br />
 Apple Developer Enterprise Program - Apple Developer: https://developer.apple.com/programs/enterprise/<br />
 Apple Device Support Tutorials | Apple Training: https://it-training.apple.com/tutorials/apt-support<br />
 Apple Education:  https://www.apple.com/education/<br />
