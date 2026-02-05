@@ -96,7 +96,7 @@ Apparency: https://www.mothersruin.com/software/Apparency/<br />
 AppCleaner: https://freemacsoft.net/appcleaner/<br />
 AutoPkg: https://github.com/autopkg/autopkg<br />
 AutoPkgr: https://github.com/lindegroup/autopkgr<br />
-AwesomeIntune - Intune Tools & PowerShell Scripts: https://github.com/ugurkocde/awesomeintune
+AwesomeIntune - Intune Tools & PowerShell Scripts: https://github.com/ugurkocde/awesomeintune<br />
 Baseline: https://github.com/secondsonconsulting/baseline<br />
 BBEdit: https://www.barebones.com/products/bbedit/<br />
 CodeLobster: https://codelobster.com/<br />
