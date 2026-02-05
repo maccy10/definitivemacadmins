@@ -222,6 +222,8 @@ MacSysAdmin (Sweden): https://www.macsysadmin.se/<br />
 MacAD.UK: https://macad.uk/<br />
 Mac Admins Europe: https://macadmins-eu.org/<br />
 Mac Admins India: https://conference.macadmins.in<br />
+JNUC 2025: https://reg.jnuc.jamf.com/flow/jamf/jnuc2025/home25/page/jnuc2025home<br />
+JNUC 2026: https://www.jamf.com/events/jamf-nation-user-conference/2026/overview<br />
 
 ## 📡 Miscellaneous & RSS Feeds<br />
 General Tech RSS List: https://lapcatsoftware.com/articles/RSS.html<br />
@@ -234,6 +236,7 @@ AWS Health - Service health: https://health.aws.amazon.com/health/status<br />
 
 ## 📺 YouTube/Video Channels<br />
 ### Conferences & Events<br />
+JNUC 2025: https://www.youtube.com/playlist?list=PLlxHm_Px-Ie0DkjJe6xzYhFhwIn2SUhHJ<br />
 MacAdmins Conference: https://www.youtube.com/@MacAdmins<br />
 MacAD.UK: https://www.youtube.com/@MacADUK<br />
 
