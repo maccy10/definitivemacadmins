@@ -248,7 +248,7 @@ MacAD.UK: https://www.youtube.com/@MacADUK<br />
 Jamf: https://www.youtube.com/@JAMFMedia<br />
 Addigy: https://www.youtube.com/@addigy<br />
 Microsoft Intune: https://www.youtube.com/@intuneforeducationcustomer4969<br />
-Kandji: https://www.youtube.com/@KandjiOfficial<br />
+Iru: https://www.youtube.com/@KandjiOfficial<br />
 
 ### MSPs & Integrators<br />
 Rocketman Tech: https://www.youtube.com/@RocketmanTech<br />
@@ -257,7 +257,7 @@ Academia Group: https://www.youtube.com/@AcademiaGroup<br />
 ### User Groups<br />
 Toronto MacAdmins: https://www.youtube.com/@TorontoMacadmins<br />
 Greater Philadelphia MacAdmins: https://www.youtube.com/@phillymacadmins<br />
-MacAdmins India: https://www.youtube.com/channel/UCCXssSduB96r1OtRB4ipCVg<br />
+Mac Admins India: https://www.youtube.com/channel/UCCXssSduB96r1OtRB4ipCVg<br />
 India Apple Admins: https://www.youtube.com/@indiamacadmins<br />
 Twin Cities Mac Admins: https://www.youtube.com/@twincitiesmacadmins5763<br />
 London Apple Admins: https://www.youtube.com/@londonappleadmins<br />
