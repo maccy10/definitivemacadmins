@@ -74,6 +74,7 @@ MacOS Adventures: https://www.macosadventures.com/<br />
 Patch Notes & Progress: https://tonyyo11.github.io/<br />
 Kevin M. Cox: https://www.kevinmcox.com<br />
 Bob Gendler: https://boberito.medium.com<br />
+Daz Wallace: https://dazwallace.wordpress.com/tag/macadmins<br />
 
 ## Blog Aggregators & Lists<br />
 MacAdmin Blogs via Feedspot: https://bloggers.feedspot.com/mac_blogs/<br />
