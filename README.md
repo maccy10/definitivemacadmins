@@ -1,4 +1,4 @@
-# The definitive MacAdmins Resource Directory
+# The definitive MacAdmins resource directory
 
 A curated collection of essential links, blogs, tools, and communities for Apple systems administrators.
 
