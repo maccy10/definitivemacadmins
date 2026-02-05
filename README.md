@@ -200,6 +200,16 @@ Jamf Nation Community: http://community.jamf.com<br />
 Jamf Feature Requests: http://ideas.jamf.com<br />
 Jamf Training Catalog: http://trainingcatalog.jamf.com<br />
 Jamf Support Portal: http://support.jamf.com<br />
+Jamf Account: https://account.jamf.com/<br />
+Jamf Heroes: https://heroes.jamf.com / or https://community.jamf.com/t5/jamf-heroes-customers/gh-p/JamfHeroesCustomers<br /> 
+Jamf Status: https://status.jamf.com<br />
+Jamf GitHub: https://jamf.github.io<br /> 
+Jamf Ideas: https://ideas.jamf.com<br /> 
+Jamf Trusted Access Solution Center: https://trust.jamf.com<br />
+Jamf Learning Hub: https://learn.jamf.com<br /> 
+Jamf Security: https://security.jamf.com<br /> 
+Jamf Harbor: https://jamf-view.highspot.com/viewer/653923584f6a00c37fcc37ca<br />
+Jamf Concepts: https://concepts.jamf.com<br /> 
 
 ## 🎤 Podcasts<br />
 Apple @ Work: https://podcasts.apple.com/us/podcast/apple-work/id1500332802<br />
@@ -220,6 +230,7 @@ NHS Digital Cyber Alerts Feed: https://digital.nhs.uk/feed/cyber-alerts-feed.xml
 HCS White Papers: https://hcsonline.com/support/resources/white-papers?format=feed&catid=43<br />
 Apple News: https://developer.apple.com/news/releases/rss/releases.rss<br />
 Apple Community Bookmarks: https://github.com/cbookmarks/bookmarks/blob/main/Apple_Community_Bookmarks.html<br />
+AWS Health - Service health: https://health.aws.amazon.com/health/status<br /> 
 
 ## 📺 YouTube/Video Channels<br />
 ### Conferences & Events<br />
