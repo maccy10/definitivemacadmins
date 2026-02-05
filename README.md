@@ -189,6 +189,7 @@ MacAdmins Slack: [https://www.macadmins.org/](https://join.slack.com/t/macadmins
 MacAdmins.org: https://www.macadmins.org/<br />
 Mac Admins Open Source: https://macadmins.io/<br />
 Microsoft Mac Admins Community: https://aka.ms/MacAdmins<br />
+London Apple Admins: https://londonappleadmins.org.uk<br />
 
 ## Reddit<br />
 r/macsysadmin: https://www.reddit.com/r/macsysadmin/ (RSS: https://www.reddit.com/r/macsysadmin/.rss)<br />
@@ -256,6 +257,7 @@ Greater Philadelphia MacAdmins: https://www.youtube.com/@phillymacadmins<br />
 MacAdmins India: https://www.youtube.com/channel/UCCXssSduB96r1OtRB4ipCVg<br />
 India Apple Admins: https://www.youtube.com/@indiamacadmins<br />
 Twin Cities Mac Admins: https://www.youtube.com/@twincitiesmacadmins5763<br />
+London Apple Admins: https://www.youtube.com/@londonappleadmins<br />
 
 ### Apple & General Tech<br />
 Apple - YouTube: https://www.youtube.com/user/apple<br />
