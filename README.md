@@ -44,12 +44,16 @@ Apple School Manager: https://school.apple.com/<br />
 Apple School Manager User Guide - Apple Support: https://support.apple.com/guide/apple-school-manager/welcome/web<br />
 Apple Support - YouTube: https://www.youtube.com/applesupport<br />
 Apple · GitHub: https://github.com/apple<br />
+Apple Security Research Blog: https://security.apple.com/blog/
 AppleCare for Enterprise: https://www.apple.com/support/professional/enterprise/<br />
 AppleCare Professional - Enterprise Support - Apple: https://www.apple.com/support/professional/enterprise/<br />
 AppleCare Professional - Help Desk Support - Apple: https://www.apple.com/support/professional/help-desks/<br />
 AppleCare Professional - IT Support - Apple: https://www.apple.com/support/professional/it-departments/<br />
 AppleSeed for IT (Beta, testplans, tools): https://beta.apple.com/for-it<br />
-AppleShare IT: https://appleshare.it/
+AppleShare IT: https://appleshare.it/<br />
+ABM Warranty information query: https://apps.apple.com/be/app/abm-warranty/id6755319278<br />
+About iCloud Private Relay: https://support.apple.com/en-us/102602<br />
+Accessibility - Apple: https://www.apple.com/accessibility/<br />
 
 ## 📝 Blogs & Articles<br />
 Dan K. Snelson: https://snelson.us<br />
@@ -72,24 +76,30 @@ MacLabs: https://maclabs.jazzace.ca/<br />
 MacOS Adventures: https://www.macosadventures.com/<br />
 Patch Notes & Progress: https://tonyyo11.github.io/<br />
 Kevin M. Cox: https://www.kevinmcox.com<br />
+Bob Gendler: https://boberito.medium.com<br />
 
 ## Blog Aggregators & Lists<br />
 MacAdmin Blogs via Feedspot: https://bloggers.feedspot.com/mac_blogs/<br />
 Feedly Top Mac Admin Blogs: https://feedly.com/i/top/mac-admin-blogs<br />
 Community Resources List (Jamf): https://community.jamf.com/tech-thoughts-180/community-is-valuable-a-list-of-my-favorite-community-resources-53430<br />
 
-## MDM & Vendor Blogs<br />
+## MDM Specific & Vendor Blogs<br />
 Official JAMF Blog: https://www.jamf.com/blog/<br />
 SimpleMDM Blog: https://simplemdm.com/blog/popular-open-source-tools-for-mac-admins/<br />
+Addigy: https://addigy.com/<br />
+BlackBerry UEM: https://www.blackberry.com/us/en/support/enterprise-apps/blackberry-uem<br />
 
 ## 🛠️ Tools, Utilities & Scripts<br />
 Awesome MacAdmin Tools: https://github.com/smashism/awesome-macadmin-tools<br />
 ADEPT: https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse<br />
+AirDrop Assistant: https://github.com/boberito/AirDropAssistant<br />
 Amphetamine: https://itunes.apple.com/app/amphetamine/id937984704?mt=12<br />
+App-Auto-Patch: https://github.com/App-Auto-Patch/App-Auto-Patch<br />
 Apparency: https://www.mothersruin.com/software/Apparency/<br />
 AppCleaner: https://freemacsoft.net/appcleaner/<br />
 AutoPkg: https://github.com/autopkg/autopkg<br />
 AutoPkgr: https://github.com/lindegroup/autopkgr<br />
+AwesomeIntune - Intune Tools & PowerShell Scripts: https://github.com/ugurkocde/awesomeintune
 Baseline: https://github.com/secondsonconsulting/baseline<br />
 BBEdit: https://www.barebones.com/products/bbedit/<br />
 CodeLobster: https://codelobster.com/<br />
@@ -238,3 +248,9 @@ Twin Cities Mac Admins: https://www.youtube.com/@twincitiesmacadmins5763<br />
 ### Apple & General Tech<br />
 Mr. Macintosh: https://www.youtube.com/channel/UC7FRPWLwRlhORhFHHywfqAg<br />
 Romina Gafur: https://www.youtube.com/@romina<br />
+
+# Thanks & Appreciation
+Please also visit this excellent resource<br />
+The Apple Community Bookmarks: https://github.com/cbookmarks/bookmarks/tree/main
+
+
