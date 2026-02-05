@@ -22,7 +22,6 @@ Apple - Support: https://support.apple.com/<br />
 Apple - Support - System Status: https://www.apple.com/support/systemstatus/<br />
 Apple - Supported iPad models with latest iPadOS version: https://support.apple.com/guide/ipad/supported-models-ipad213a25b2/<br />
 Apple - Supported iPhone models with latest iOS version: https://support.apple.com/guide/iphone/supported-models-iphe3fa5df43/<br />
-Apple @ Work Pod: https://podcasts.apple.com/us/podcast/apple-work/id1500332802<br />
 Apple at Work - Skill series: http://apple.co/macskills<br />
 Apple Beta — Providing Feedback: https://beta.apple.com/provide-feedback<br />
 Apple Beta — Resources: https://beta.apple.com/programs/appleseed-for-it/resources<br />
@@ -174,13 +173,13 @@ Save up to 25% PKG File Size: http://scriptingosx.com/2021/10/save-up-to-25-pkg-
 MacAdmin.info (Start Here): https://www.macadmin.info/<br />
 MacAdmins Documentation: https://macadminsdoc.readthedocs.io/en/master/<br />
 Apple Shell Scripting Guide: https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html<br />
-JAMF Pro Policy Cheat Sheet: https://oit.ncsu.edu/help-support/apple/jamf-pro/jamf-pro-policy-cheat-sheet/#time<br />
+Jamf Pro Policy Cheat Sheet: https://oit.ncsu.edu/help-support/apple/jamf-pro/jamf-pro-policy-cheat-sheet/#time<br />
 Scripting JAMF Best Practices: https://scriptingosx.com/jnuc2020/<br />
 ComputerWorld: Upskilling for Apple IT Admins: https://www.computerworld.com/article/3625379/for-apple-it-admins-the-new-year-means-its-a-good-time-to-upskill.html<br />
 
 ## 🛡️ Security & Compliance<br />
 NIST macOS Security Compliance Project: https://csrc.nist.gov/publications/detail/sp/800-219/final<br />
-Sofa (Security RSS): https://sofa.macadmins.io/v1/rss_feed.xml<br />
+SOFA (Security RSS): https://sofa.macadmins.io/v1/rss_feed.xml<br />
 NIST Vulnerability Data Feeds (RSS): https://nvd.nist.gov/vuln/data-feeds#RSS<br />
 CISA Known Exploited Vulnerabilities: https://www.cisa.gov/known-exploited-vulnerabilities-catalog<br />
 Apple Allowed Autofill Domains: https://github.com/b0o/apple-autofill-domains<br />
@@ -203,6 +202,7 @@ Jamf Training Catalog: http://trainingcatalog.jamf.com<br />
 Jamf Support Portal: http://support.jamf.com<br />
 
 ## 🎤 Podcasts<br />
+Apple @ Work: https://podcasts.apple.com/us/podcast/apple-work/id1500332802<br />
 MacAdmins Podcast: https://podcasts.apple.com/us/podcast/macadmins-podcast/id1238495116<br />
 Jamf After Dark: https://jamfafterdark.libsyn.com/<br />
 
