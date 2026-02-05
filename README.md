@@ -22,8 +22,6 @@ Apple - Support: https://support.apple.com/<br />
 Apple - Support - System Status: https://www.apple.com/support/systemstatus/<br />
 Apple - Supported iPad models with latest iPadOS version: https://support.apple.com/guide/ipad/supported-models-ipad213a25b2/<br />
 Apple - Supported iPhone models with latest iOS version: https://support.apple.com/guide/iphone/supported-models-iphe3fa5df43/<br />
-Apple - YouTube: https://www.youtube.com/user/apple<br />
-Apple - YouTube - Shorts: https://www.youtube.com/@Apple/shorts<br />
 Apple @ Work Pod: https://podcasts.apple.com/us/podcast/apple-work/id1500332802<br />
 Apple at Work - Skill series: http://apple.co/macskills<br />
 Apple Beta — Providing Feedback: https://beta.apple.com/provide-feedback<br />
@@ -188,7 +186,7 @@ CISA Known Exploited Vulnerabilities: https://www.cisa.gov/known-exploited-vulne
 Apple Allowed Autofill Domains: https://github.com/b0o/apple-autofill-domains<br />
 
 ## 🤝 Communities & Social<br />
-MacAdmins Slack (#blog-feed channel)<br />
+MacAdmins Slack: [https://www.macadmins.org/](https://join.slack.com/t/macadmins/shared_invite/zt-3ok3rukoj-ziZeIXzbqP~_65HM3R53Yw)<br />
 MacAdmins.org: https://www.macadmins.org/<br />
 Mac Admins Open Source: https://macadmins.io/<br />
 Microsoft Mac Admins Community: https://aka.ms/MacAdmins<br />
@@ -246,6 +244,8 @@ India Apple Admins: https://www.youtube.com/@indiamacadmins<br />
 Twin Cities Mac Admins: https://www.youtube.com/@twincitiesmacadmins5763<br />
 
 ### Apple & General Tech<br />
+Apple - YouTube: https://www.youtube.com/user/apple<br />
+Apple - YouTube - Shorts: https://www.youtube.com/@Apple/shorts<br />
 Mr. Macintosh: https://www.youtube.com/channel/UC7FRPWLwRlhORhFHHywfqAg<br />
 Romina Gafur: https://www.youtube.com/@romina<br />
 
