@@ -11,6 +11,46 @@ MacRumors: https://www.macrumors.com/<br />
 9to5Mac: https://9to5mac.com/<br />
 MacHash: https://machash.com/<br />
 
+## Apple Related<br />
+Apple: https://www.apple.com/<br />
+Apple - Declarations of Conformity: https://www.apple.com/euro/compliance/<br />
+Apple - Identify keyboard layout: https://support.apple.com/102743<br />
+Apple - Manuals, Specs, and Downloads: https://support.apple.com/docs/<br />
+Apple - MFi Accessories: https://mfi.apple.com/account/accessory-search<br />
+Apple - Regulation 617/2013: https://www.apple.com/euro/compliance/617_2013/<br />
+Apple - Support: https://support.apple.com/<br />
+Apple - Support - System Status: https://www.apple.com/support/systemstatus/<br />
+Apple - Supported iPad models with latest iPadOS version: https://support.apple.com/guide/ipad/supported-models-ipad213a25b2/<br />
+Apple - Supported iPhone models with latest iOS version: https://support.apple.com/guide/iphone/supported-models-iphe3fa5df43/<br />
+Apple - YouTube: https://www.youtube.com/user/apple<br />
+Apple - YouTube - Shorts: https://www.youtube.com/@Apple/shorts<br />
+Apple @ Work Pod: https://podcasts.apple.com/us/podcast/apple-work/id1500332802<br />
+Apple at Work - Skill series: http://apple.co/macskills<br />
+Apple Beta — Providing Feedback: https://beta.apple.com/provide-feedback<br />
+Apple Beta — Resources: https://beta.apple.com/programs/appleseed-for-it/resources<br />
+Apple Business Manager: https://business.apple.com/<br />
+Apple Business Manager User Guide - Apple Support: https://support.apple.com/guide/apple-business-manager/welcome/web<br />
+Apple Configurator - Official Apple Support: https://support.apple.com/apple-configurator<br />
+Apple Developer Enterprise Program - Apple Developer: https://developer.apple.com/programs/enterprise/<br />
+Apple Device Support Tutorials | Apple Training: https://it-training.apple.com/tutorials/apt-support<br />
+Apple Events - Apple: https://www.apple.com/apple-events/<br />
+Apple Legal: https://www.apple.com/legal/<br />
+Apple Platform Certifications - Apple Support: https://support.apple.com/guide/certifications/welcome/web<br />
+Apple Platform Deployment - Apple Support: https://support.apple.com/guide/deployment/welcome/web<br />
+Apple Platform Security - Apple Support: https://support.apple.com/guide/security/welcome/web<br />
+Apple Policy Explorer: https://appledevicepolicy.tools/policy-explorer<br />
+Apple Push Certificates Portal: https://identity.apple.com/pushcert/<br />
+Apple School Manager: https://school.apple.com/<br />
+Apple School Manager User Guide - Apple Support: https://support.apple.com/guide/apple-school-manager/welcome/web<br />
+Apple Support - YouTube: https://www.youtube.com/applesupport<br />
+Apple · GitHub: https://github.com/apple<br />
+AppleCare for Enterprise: https://www.apple.com/support/professional/enterprise/<br />
+AppleCare Professional - Enterprise Support - Apple: https://www.apple.com/support/professional/enterprise/<br />
+AppleCare Professional - Help Desk Support - Apple: https://www.apple.com/support/professional/help-desks/<br />
+AppleCare Professional - IT Support - Apple: https://www.apple.com/support/professional/it-departments/<br />
+AppleSeed for IT (Beta, testplans, tools): https://beta.apple.com/for-it<br />
+AppleShare IT: https://appleshare.it/
+
 ## 📝 Blogs & Articles<br />
 Dan K. Snelson: https://snelson.us<br />
 Kitzy: https://kitzy.com<br />
