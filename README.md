@@ -79,6 +79,10 @@ TCP and UDP ports used by Apple software products - Apple Support: https://suppo
 Transfer Apple services when federating - Apple Support: https://support.apple.com/guide/apple-business-manager/transfer-apple-services-when-federating-axm6603d9206/web<br />
 Wi-Fi roaming support: https://support.apple.com/guide/deployment/wi-fi-roaming-support-dep98f116c0f/web<br />
 Wi-Fi specifications for Apple devices: https://support.apple.com/guide/deployment/wi-fi-specifications-for-apple-devices-dep268652e6c/web<br />
+Apple Security Releases: https://support.apple.com/en-us/100100<br />
+How to identify the DFU port on Mac: https://support.apple.com/en-gb/120694<br />
+How iOS, iPadOS and macOS decide which wireless network to auto-join: https://support.apple.com/en-gb/102169<br />
+Use Apple products on enterprise networks: https://support.apple.com/en-gb/101555<br />
 
 ## 📝 Blogs & Articles<br />
 Big Mac Admin: https://bigmacadmin.wordpress.com<br />
