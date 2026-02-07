@@ -280,6 +280,7 @@ SOFA (Security RSS): https://sofa.macadmins.io/v1/rss_feed.xml<br />
 
 ## 🤝 Communities, User Groups & Social<br />
 East Midlands Apple Admins: https://community.jamf.com/groups/east-midlands-apple-admins-uk-29<br />
+Jamf User Groups: https://community.jamf.com/p/user-groups<br />
 London Apple Admins: https://londonappleadmins.org.uk<br />
 Mac Admins India: https://macadmins.in<br />
 MacAdmins Slack: [https://www.macadmins.org/](https://join.slack.com/t/macadmins/shared_invite/zt-3ok3rukoj-ziZeIXzbqP~_65HM3R53Yw)<br />
