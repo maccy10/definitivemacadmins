@@ -287,6 +287,7 @@ MacAdmins Slack: [https://www.macadmins.org/](https://join.slack.com/t/macadmins
 MacAdmins.org: https://www.macadmins.org/<br />
 Mac Admins Open Source: https://macadmins.io/<br />
 Microsoft Mac Admins Community: https://aka.ms/MacAdmins<br />
+Mr. Macintosh on X: https://x.com/ClassicII_MrMac<br />
 
 ## Reddit<br />
 r/jamf: https://www.reddit.com/r/jamf/ (RSS: https://www.reddit.com/r/jamf/.rss)<br />
