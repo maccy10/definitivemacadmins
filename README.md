@@ -318,6 +318,7 @@ Jamf Trusted Access Solution Center: https://trust.jamf.com<br />
 Apple @ Work: https://podcasts.apple.com/us/podcast/apple-work/id1500332802<br />
 Jamf After Dark: https://jamfafterdark.libsyn.com/<br />
 MacAdmins Podcast: https://podcasts.apple.com/us/podcast/macadmins-podcast/id1238495116<br />
+Keeping IT Talking: https://podcasts.apple.com/gb/podcast/keeping-it-talking/id1843864440<br />
 
 ## 🗓️ Conferences<br />
 JNUC 2025: https://reg.jnuc.jamf.com/flow/jamf/jnuc2025/home25/page/jnuc2025home<br />
