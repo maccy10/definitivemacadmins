@@ -158,6 +158,7 @@ App-Auto-Patch: https://github.com/App-Auto-Patch/App-Auto-Patch<br />
 Apparency: https://www.mothersruin.com/software/Apparency/<br />
 AppCleaner: https://freemacsoft.net/appcleaner/<br />
 Apple Device Management Schema: https://github.com/apple/device-management<br />
+Aurora Screen Shot: https://leo2008k.github.io/AuroraScreenShot<br />
 AutoPkg: https://github.com/autopkg/autopkg<br />
 AutoPkgr: https://github.com/lindegroup/autopkgr<br />
 Awesome MacAdmin Tools: https://github.com/smashism/awesome-macadmin-tools<br />
@@ -165,6 +166,7 @@ AwesomeIntune - Intune Tools & PowerShell Scripts: https://github.com/ugurkocde/
 Bash OneLiner: https://github.com/onceupon/Bash-Oneliner<br />
 Baseline: https://github.com/secondsonconsulting/baseline<br />
 BBEdit: https://www.barebones.com/products/bbedit/<br />
+Bezel: https://getbezel.app<br />
 CodeLobster: https://codelobster.com/<br />
 Coderunner 4: https://coderunnerapp.com/download<br />
 Composer: https://www.jamf.com/products/jamf-composer/<br />
