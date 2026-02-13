@@ -108,7 +108,7 @@ Microsoft Tools: https://appledevicepolicy.tools/microsoft-apps<br />
 Modtitan: https://www.modtitan.com<br />
 MOFA Microsoft Overview Feed: https://mofa.cocolabs.dev<br />
 Mr. Macintosh: https://mrmacintosh.com<br />
-Neil Martin | Sound Mac Guy: https://soundmacguy.wordpress.com<br />
+Neil Martin | Sound Mac Guy: https://soundmacguy.org.uk<br />
 Objective-See Blog: https://objective-see.com/blog.html<br />
 OSX Daily: https://osxdaily.com<br />
 Patch Notes & Progress: https://tonyyo11.github.io/<br />
