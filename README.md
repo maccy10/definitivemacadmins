@@ -110,8 +110,10 @@ MOFA Microsoft Overview Feed: https://mofa.cocolabs.dev<br />
 Mr. Macintosh: https://mrmacintosh.com<br />
 Neil Martin | Sound Mac Guy: https://soundmacguy.org.uk<br />
 Objective-See Blog: https://objective-see.com/blog.html<br />
+Open Source Malware: https://opensourcemalware.com<br />
 OSX Daily: https://osxdaily.com<br />
 Patch Notes & Progress: https://tonyyo11.github.io/<br />
+Pat's Blog: https://www.patrickphang.nl<br />
 Remember the Human: https://talkingmoose.net and https://github.com/rtrouton<br />
 Richard Purves: https://richard-purves.com<br />
 Scripting OS X: https://scriptingosx.com/<br />
