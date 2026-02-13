@@ -85,8 +85,10 @@ Wi-Fi roaming support: https://support.apple.com/guide/deployment/wi-fi-roaming-
 Wi-Fi specifications for Apple devices: https://support.apple.com/guide/deployment/wi-fi-specifications-for-apple-devices-dep268652e6c/web<br />
 
 ## 📝 Blogs & Articles<br />
+AOFA Adobe Overview Feed: https://lnkd.in/eeXpakQv<br />
 Big Mac Admin: https://bigmacadmin.wordpress.com<br />
 Bob Gendler: https://boberito.medium.com<br />
+BOFA Browser Overview: https://bofa.cocolabs.dev<br />
 CoCoLabs: https://cocolabs.dev/<br />
 Dan K. Snelson: https://snelson.us and https://github.com/dan-snelson<br />
 Daz Wallace: https://dazwallace.wordpress.com/tag/macadmins<br />
@@ -102,7 +104,9 @@ Macnotes: https://macnotes.wordpress.com<br />
 Mat X | Mac VFX blog:
 https://macvfx.blog<br />
 Managing OS X: https://managingosx.wordpress.com<br />
+Microsoft Tools: https://appledevicepolicy.tools/microsoft-apps<br />
 Modtitan: https://www.modtitan.com<br />
+MOFA Microsoft Overview Feed: https://mofa.cocolabs.dev<br />
 Mr. Macintosh: https://mrmacintosh.com<br />
 Neil Martin | Sound Mac Guy: https://soundmacguy.wordpress.com<br />
 Objective-See Blog: https://objective-see.com/blog.html<br />
@@ -283,6 +287,7 @@ NIST Vulnerability Data Feeds (RSS): https://nvd.nist.gov/vuln/data-feeds#RSS<br
 SOFA (Security RSS): https://sofa.macadmins.io/v1/rss_feed.xml<br />
 
 ## 🤝 Communities, User Groups & Social<br />
+Berlin MacAdmins: https://berlinmacadmins.github.io<br />
 East Midlands Apple Admins: https://community.jamf.com/groups/east-midlands-apple-admins-uk-29<br />
 Jamf User Groups: https://community.jamf.com/p/user-groups<br />
 London Apple Admins: https://londonappleadmins.org.uk<br />
