@@ -85,7 +85,7 @@ Wi-Fi roaming support: https://support.apple.com/guide/deployment/wi-fi-roaming-
 Wi-Fi specifications for Apple devices: https://support.apple.com/guide/deployment/wi-fi-specifications-for-apple-devices-dep268652e6c/web<br />
 
 ## 📝 Blogs & Articles<br />
-AOFA Adobe Overview Feed: https://lnkd.in/eeXpakQv<br />
+AOFA Adobe Overview Feed: https://github.com/cocopuff2u/aofa<br />
 Big Mac Admin: https://bigmacadmin.wordpress.com<br />
 Bob Gendler: https://boberito.medium.com<br />
 BOFA Browser Overview: https://bofa.cocolabs.dev<br />
