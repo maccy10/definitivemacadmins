@@ -99,6 +99,8 @@ MacLabs: https://maclabs.jazzace.ca/<br />
 MacMule: https://macmule.com<br />
 MacOS Adventures: https://www.macosadventures.com/<br />
 Macnotes: https://macnotes.wordpress.com<br />
+Mat X | Mac VFX blog:
+https://macvfx.blog<br />
 Managing OS X: https://managingosx.wordpress.com<br />
 Modtitan: https://www.modtitan.com<br />
 Mr. Macintosh: https://mrmacintosh.com<br />
@@ -318,6 +320,8 @@ Jamf Trusted Access Solution Center: https://trust.jamf.com<br />
 Apple @ Work: https://podcasts.apple.com/us/podcast/apple-work/id1500332802<br />
 Jamf After Dark: https://jamfafterdark.libsyn.com/<br />
 MacAdmins Podcast: https://podcasts.apple.com/us/podcast/macadmins-podcast/id1238495116<br />
+MacDevOps:
+https://podcasts.apple.com/ca/podcast/macdevopsyvr-podcast/id1502634809<br />
 Keeping IT Talking: https://podcasts.apple.com/gb/podcast/keeping-it-talking/id1843864440<br />
 
 ## 🗓️ Conferences<br />
@@ -346,7 +350,8 @@ NHS Digital Cyber Alerts Feed: https://digital.nhs.uk/feed/cyber-alerts-feed.xml
 JNUC 2025: https://www.youtube.com/playlist?list=PLlxHm_Px-Ie0DkjJe6xzYhFhwIn2SUhHJ<br />
 MacAD.UK: https://www.youtube.com/@MacADUK<br />
 MacAdmins Conference: https://www.youtube.com/@MacAdmins<br />
-
+MacDevOpsYVR:
+https://www.youtube.com/c/MDOYVR<br />
 ### MDM & Solution Providers<br />
 Addigy: https://www.youtube.com/@addigy<br />
 Iru: https://www.youtube.com/@KandjiOfficial<br />
