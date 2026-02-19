@@ -140,8 +140,8 @@ Hexnode: https://www.hexnode.com<br />
 Intune - In Real Life: https://www.intuneirl.com<br />
 Iru: https://www.iru.com<br />
 JumpCloud: https://jumpcloud.com<br />
-Kandji Blog: https://blog.kandji.io<br />
-Kandji support repository: https://github.com/kandji-inc/support<br />
+Iru Blog: https://blog.kandji.io<br />
+Iru support repository: https://github.com/kandji-inc/support<br />
 MicroMDM: https://micromdm.io<br />
 Miradore: https://www.miradore.com/<br />
 Miradore Blog: https://www.miradore.com/blog/<br />
