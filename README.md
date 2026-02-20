@@ -96,6 +96,7 @@ Daz Wallace: https://dazwallace.wordpress.com/tag/macadmins<br />
 Der Flounder: https://derflounder.wordpress.com<br />
 Fraserhess: https://macadmin.fraserhess.com<br />
 Graham Gilbert: https://grahamgilbert.com<br />
+John Mahlman: https://yearofthegeek.net<br />
 Kevin M. Cox: https://www.kevinmcox.com<br />
 Kitzy: https://kitzy.com<br />
 Mac Connection Standards: https://macattorney.com/MacConnectionStandards.pdf<br />
@@ -298,6 +299,7 @@ SOFA (Security RSS): https://sofa.macadmins.io/v1/rss_feed.xml<br />
 ## 🤝 Communities, User Groups & Social<br />
 Berlin MacAdmins: https://berlinmacadmins.github.io<br />
 East Midlands Apple Admins: https://community.jamf.com/groups/east-midlands-apple-admins-uk-29<br />
+Greater Phildelphia Mac Admins: https://phillymacadmins.com<br />
 Jamf User Groups: https://community.jamf.com/p/user-groups<br />
 London Apple Admins: https://londonappleadmins.org.uk<br />
 Mac Admins Community Map: https://www.google.com/maps/d/u/0/viewer?mid=1Ao_VrRMOPcg-8vVSpPgd-6yRylOUUfk&ll=-3.81666561775622e-14%2C-106.80764550000004&z=2<br />
