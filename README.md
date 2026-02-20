@@ -32,6 +32,7 @@ Apple Business: https://www.apple.com/business/<br />
 Apple Business/Enterprise: https://www.apple.com/business/enterprise/<br />
 Apple Business Manager: https://business.apple.com/<br />
 Apple Business Manager User Guide - Apple Support: https://support.apple.com/guide/apple-business-manager/welcome/web<br />
+Apple Business Manager - Buying Content: https://support.apple.com/en-gb/guide/apple-business-manager/axme19b23f7f/1/web/1<br />
 Apple Configurator - Official Apple Support: https://support.apple.com/apple-configurator<br />
 Apple Deployment Tutorials: https://it-training.apple.com/tutorials/apt-deployment<br />
 Apple Developer Custom Apps: https://developer.apple.com/custom-apps/<br />
@@ -97,6 +98,7 @@ Fraserhess: https://macadmin.fraserhess.com<br />
 Graham Gilbert: https://grahamgilbert.com<br />
 Kevin M. Cox: https://www.kevinmcox.com<br />
 Kitzy: https://kitzy.com<br />
+Mac Connection Standards: https://macattorney.com/MacConnectionStandards.pdf<br />
 MacLabs: https://maclabs.jazzace.ca/<br />
 MacMule: https://macmule.com<br />
 MacOS Adventures: https://www.macosadventures.com/<br />
@@ -152,6 +154,7 @@ SimpleMDM Blog: https://simplemdm.com/blog/popular-open-source-tools-for-mac-adm
 Workspace ONE: https://www.vmware.com/products/workspace-one/unified-endpoint-management.html<br />
 
 ## 🛠️ Tools, Utilities & Scripts<br />
+Add2ABM: https://github.com/Inetum-Poland/add2abm<br />
 ADEPT: https://git.tramscloud.co.uk/projects/XCOD/repos/adept/browse<br />
 Aftermath: https://github.com/jamf/aftermath<br />
 AirDrop Assistant: https://github.com/boberito/AirDropAssistant<br />
@@ -169,6 +172,7 @@ Bash OneLiner: https://github.com/onceupon/Bash-Oneliner<br />
 Baseline: https://github.com/secondsonconsulting/baseline<br />
 BBEdit: https://www.barebones.com/products/bbedit/<br />
 Bezel: https://getbezel.app<br />
+Bootstrap Buddy: https://github.com/Inetum-Poland/bootstrap-buddy<br />
 CodeLobster: https://codelobster.com/<br />
 Coderunner 4: https://coderunnerapp.com/download<br />
 Composer: https://www.jamf.com/products/jamf-composer/<br />
