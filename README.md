@@ -389,6 +389,7 @@ Twin Cities Mac Admins: https://www.youtube.com/@twincitiesmacadmins5763<br />
 Apple - YouTube: https://www.youtube.com/user/apple<br />
 Apple - YouTube - Shorts: https://www.youtube.com/@Apple/shorts<br />
 Apple Support - YouTube: https://www.youtube.com/applesupport<br />
+iJustine - https://www.youtube.com/ijustine<br />
 Mr. Macintosh: https://www.youtube.com/channel/UC7FRPWLwRlhORhFHHywfqAg<br />
 Romina Gafur: https://www.youtube.com/@romina<br />
 
