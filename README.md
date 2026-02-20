@@ -297,6 +297,7 @@ NIST Vulnerability Data Feeds (RSS): https://nvd.nist.gov/vuln/data-feeds#RSS<br
 SOFA (Security RSS): https://sofa.macadmins.io/v1/rss_feed.xml<br />
 
 ## 🤝 Communities, User Groups & Social<br />
+Atlanta Mac Admins: https://www.eventbrite.com/o/atlanta-apple-admins-58609161243<br />
 Berlin MacAdmins: https://berlinmacadmins.github.io<br />
 East Midlands Apple Admins: https://community.jamf.com/groups/east-midlands-apple-admins-uk-29<br />
 Greater Phildelphia Mac Admins: https://phillymacadmins.com<br />
