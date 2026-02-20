@@ -141,6 +141,7 @@ Fleet: https://fleetdm.com<br />
 Hexnode: https://www.hexnode.com<br />
 Intune - In Real Life: https://www.intuneirl.com<br />
 Iru: https://www.iru.com<br />
+Jamf Tech Thoughts: https://community.jamf.com/tech-thoughts-180<br />
 JumpCloud: https://jumpcloud.com<br />
 Iru Blog: https://blog.kandji.io<br />
 Iru support repository: https://github.com/kandji-inc/support<br />
