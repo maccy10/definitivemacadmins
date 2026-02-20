@@ -2,7 +2,7 @@
 
 A curated collection of essential links, blogs, tools, and communities for Apple systems administrators.<br />
 
-This list is maintained by the community. Please suggest additions or corrections.<br />
+This list is maintained by the community. Please suggest additions or corrections, and submit pull requests.<br />
 
 ## 📰 News & Aggregators<br />
 9to5Mac: https://9to5mac.com/<br />
