@@ -299,6 +299,7 @@ Berlin MacAdmins: https://berlinmacadmins.github.io<br />
 East Midlands Apple Admins: https://community.jamf.com/groups/east-midlands-apple-admins-uk-29<br />
 Jamf User Groups: https://community.jamf.com/p/user-groups<br />
 London Apple Admins: https://londonappleadmins.org.uk<br />
+Mac Admins Community Map: https://www.google.com/maps/d/u/0/viewer?mid=1Ao_VrRMOPcg-8vVSpPgd-6yRylOUUfk&ll=-3.81666561775622e-14%2C-106.80764550000004&z=2<br />
 Mac Admins India: https://macadmins.in<br />
 MacAdmins Slack: [https://www.macadmins.org/](https://join.slack.com/t/macadmins/shared_invite/zt-3ok3rukoj-ziZeIXzbqP~_65HM3R53Yw)<br />
 MacAdmins.org: https://www.macadmins.org/<br />
