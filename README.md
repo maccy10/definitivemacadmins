@@ -271,6 +271,7 @@ The MUT: https://apps.apple.com/us/app/the-mut/id1133234759<br />
 Trello: https://trello.com/<br />
 umad: https://github.com/macadmins/umad<br />
 Uninstaller: https://github.com/erikstam/uninstaller<br />
+University of Utah: https://github.com/univ-of-utah-marriott-library-apple<br />
 Update macOS DDM Jamf: https://github.com/avogel-mac/Update_macOS_DDM<br />
 Utiluti - Manage default apps: https://github.com/scriptingosx/utiluti<br />
 vfuse: https://github.com/chilcote/vfuse<br />
