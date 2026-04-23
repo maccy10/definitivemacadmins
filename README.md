@@ -189,6 +189,7 @@ getmacosipsws.py: https://github.com/munki/macadmin-scripts<br />
 Giphy Capture: https://itunes.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12<br />
 Google Keep: https://www.google.com/keep/<br />
 Graham Pugh multitenant Jamf Pro tools: https://github.com/grahampugh/multitenant-jamf-tools<br />
+Hazmat: https://github.com/dredozubov/hazmat<br />
 Hello-IT: https://github.com/ygini/Hello-IT<br />
 IBM Migration Tool: https://github.com/IBM/mac-ibm-migration-tool<br />
 Icons.app: https://github.com/SAP/macOS-icon-generator<br />
