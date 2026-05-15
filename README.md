@@ -86,6 +86,7 @@ Wi-Fi roaming support: https://support.apple.com/guide/deployment/wi-fi-roaming-
 Wi-Fi specifications for Apple devices: https://support.apple.com/guide/deployment/wi-fi-specifications-for-apple-devices-dep268652e6c/web<br />
 
 ## 📝 Blogs & Articles<br />
+Anthony Darlow: https://cantscript.com/<br />
 AOFA Adobe Overview Feed: https://github.com/cocopuff2u/aofa<br />
 Big Mac Admin: https://bigmacadmin.wordpress.com<br />
 Bob Gendler: https://boberito.medium.com<br />
@@ -370,8 +371,9 @@ NHS Digital Cyber Alerts Feed: https://digital.nhs.uk/feed/cyber-alerts-feed.xml
 JNUC 2025: https://www.youtube.com/playlist?list=PLlxHm_Px-Ie0DkjJe6xzYhFhwIn2SUhHJ<br />
 MacAD.UK: https://www.youtube.com/@MacADUK<br />
 MacAdmins Conference: https://www.youtube.com/@MacAdmins<br />
-MacDevOpsYVR:
-https://www.youtube.com/c/MDOYVR<br />
+Mac Admins Europe: https://www.youtube.com/@MacAdminsEU<br />
+MacDevOpsYVR: https://www.youtube.com/c/MDOYVR<br />
+
 ### MDM & Solution Providers<br />
 Addigy: https://www.youtube.com/@addigy<br />
 Iru: https://www.youtube.com/@KandjiOfficial<br />
