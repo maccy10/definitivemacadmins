@@ -374,6 +374,7 @@ MacAD.UK: https://www.youtube.com/@MacADUK<br />
 MacAdmins Conference: https://www.youtube.com/@MacAdmins<br />
 Mac Admins Europe: https://www.youtube.com/@MacAdminsEU<br />
 MacDevOpsYVR: https://www.youtube.com/c/MDOYVR<br />
+University of Utah MacAdmins: https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest<br />
 
 ### MDM & Solution Providers<br />
 Addigy: https://www.youtube.com/@addigy<br />
