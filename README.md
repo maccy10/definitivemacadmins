@@ -176,6 +176,7 @@ Baseline: https://github.com/secondsonconsulting/baseline<br />
 BBEdit: https://www.barebones.com/products/bbedit/<br />
 Bezel: https://getbezel.app<br />
 Bootstrap Buddy: https://github.com/Inetum-Poland/bootstrap-buddy<br />
+Box of Apples: https://boa.decompiler.dev/<br />
 CodeLobster: https://codelobster.com/<br />
 Coderunner 4: https://coderunnerapp.com/download<br />
 Composer: https://www.jamf.com/products/jamf-composer/<br />
