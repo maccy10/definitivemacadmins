@@ -295,6 +295,7 @@ Scripting JAMF Best Practices: https://scriptingosx.com/jnuc2020/<br />
 Apple Allowed Autofill Domains: https://github.com/b0o/apple-autofill-domains<br />
 CISA Known Exploited Vulnerabilities: https://www.cisa.gov/known-exploited-vulnerabilities-catalog<br />
 macOS Security Compliance Project - Apple Support: https://support.apple.com/guide/certifications/macos-security-compliance-project-apc322685bb2/web<br />
+mSCP: https://pages.nist.gov/macos_security/<br />
 NIST macOS Security Compliance Project: https://csrc.nist.gov/publications/detail/sp/800-219/final<br />
 NIST Vulnerability Data Feeds (RSS): https://nvd.nist.gov/vuln/data-feeds#RSS<br />
 SOFA (Security RSS): https://sofa.macadmins.io/v1/rss_feed.xml<br />
