@@ -109,6 +109,7 @@ Mat X | Mac VFX blog:
 https://macvfx.blog<br />
 Managing OS X: https://managingosx.wordpress.com<br />
 Microsoft Tools: https://appledevicepolicy.tools/microsoft-apps<br />
+Mischa van der Bent: https://appleshare.it<br />
 Modtitan: https://www.modtitan.com<br />
 MOFA Microsoft Overview Feed: https://mofa.cocolabs.dev<br />
 Mr. Macintosh: https://mrmacintosh.com<br />
@@ -341,6 +342,7 @@ Jamf Trusted Access Solution Center: https://trust.jamf.com<br />
 
 ## 🎤 Podcasts<br />
 Apple @ Work: https://podcasts.apple.com/us/podcast/apple-work/id1500332802<br />
+Command Control Power: https://podcasts.apple.com/nl/podcast/command-control-power-apple-tech-support-business-talk/id668387622<br />
 Jamf After Dark: https://jamfafterdark.libsyn.com/<br />
 MacAdmins Podcast: https://podcasts.apple.com/us/podcast/macadmins-podcast/id1238495116<br />
 MacDevOps:
