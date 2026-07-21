@@ -223,6 +223,7 @@ MacAdmins Opensource Tools: https://github.com/macadmins<br />
 MacDNA: https://github.com/jhbush/Arek/tree/master/Development/MacDNA%20Menulet<br />
 MacDown: https://macdown.uranusjr.com/<br />
 MacSaver Builder: https://github.com/GetInfo-ACN/MacSaverBuilder<br />
+macOS Icons: https://macosicons.com<br />
 macOS Intune Support Assistant: https://github.com/pathaksomesh06/MISA<br />
 macOS Security Compliance Project: https://github.com/usnistgov/macos_security<br />
 MDM Migrator: https://github.com/pathaksomesh06/MDM-Migrator<br />
