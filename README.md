@@ -206,6 +206,7 @@ Jamf Concepts: https://concepts.jamf.com<br />
 Jamf Connect repository: https://github.com/jamf/jamfconnect<br />
 Jamf Custom Profile Schemas: https://github.com/Jamf-Custom-Profile-Schemas/<br />
 Jamf Framework Redeploy: https://github.com/red5coder/Jamf-Framework-Redeploy<br />
+Jamf Mapper: https://github.com/ebiinsights/Jamf-Mapper<br />
 Jamf Migrator: https://github.com/jamf/JamfMigrator<br />
 Jamf Open Source:https://github.com/jamf<br />
 Jamf PPPC Utility: https://github.com/jamf/PPPC-Utility<br />
