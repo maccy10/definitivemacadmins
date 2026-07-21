@@ -93,7 +93,7 @@ Bob Gendler: https://boberito.medium.com<br />
 BOFA Browser Overview: https://bofa.cocolabs.dev<br />
 CoCoLabs: https://cocolabs.dev/<br />
 Dan K. Snelson: https://snelson.us and https://github.com/dan-snelson<br />
-Daz Wallace: https://dazwallace.wordpress.com/tag/macadmins<br />
+Daz Wallace: https://dazwallace.wordpress.com<br />
 Der Flounder: https://derflounder.wordpress.com<br />
 Fraserhess: https://macadmin.fraserhess.com<br />
 Graham Gilbert: https://grahamgilbert.com<br />
