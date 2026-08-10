@@ -232,6 +232,7 @@ MIST – macOS Installer Super Tool: https://github.com/ninxsoft/Mist<br />
 moss: https://github.com/WardsParadox/moss<br />
 Munki: https://github.com/munki/munki<br />
 munki-pkg: https://github.com/munki/munki-pkg<br />
+Nexus Shell: https://nexusshell.app/<br />
 NoMAD: https://nomad.menu/products/#nomad<br />
 Nova: https://nova.app/<br />
 Nudge: https://github.com/macadmins/nudge<br />
