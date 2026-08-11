@@ -312,7 +312,7 @@ Mac Admins Community Map: https://www.google.com/maps/d/u/0/viewer?mid=1Ao_VrRMO
 Atlanta Mac Admins: https://www.eventbrite.com/o/atlanta-apple-admins-58609161243<br />
 Berlin MacAdmins: https://berlinmacadmins.github.io<br />
 East Midlands Apple Admins: https://community.jamf.com/groups/east-midlands-apple-admins-uk-29<br />
-Greater Phildelphia Mac Admins: https://phillymacadmins.com<br />
+Greater Philadelphia Mac Admins: https://phillymacadmins.com<br />
 Jamf User Groups: https://community.jamf.com/p/user-groups<br />
 London Apple Admins: https://londonappleadmins.org.uk<br />
 Mac Admins India: https://macadmins.in<br />
@@ -322,6 +322,7 @@ MacAdmins.org: https://www.macadmins.org/<br />
 Mac Admins Open Source: https://macadmins.io/<br />
 Microsoft Mac Admins Community: https://aka.ms/MacAdmins<br />
 Mr. Macintosh on X: https://x.com/ClassicII_MrMac<br />
+NYC Mac Admins: https://nycmacadmins.com<br />
 
 ## Reddit<br />
 r/jamf: https://www.reddit.com/r/jamf/ (RSS: https://www.reddit.com/r/jamf/.rss)<br />
