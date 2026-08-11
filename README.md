@@ -316,6 +316,7 @@ Greater Phildelphia Mac Admins: https://phillymacadmins.com<br />
 Jamf User Groups: https://community.jamf.com/p/user-groups<br />
 London Apple Admins: https://londonappleadmins.org.uk<br />
 Mac Admins India: https://macadmins.in<br />
+MacAdmins Scotland: https://community.jamf.com/groups/scotland-mac-admins-127<br />
 MacAdmins Slack: [https://www.macadmins.org/](https://join.slack.com/t/macadmins/shared_invite/zt-3ok3rukoj-ziZeIXzbqP~_65HM3R53Yw)<br />
 MacAdmins.org: https://www.macadmins.org/<br />
 Mac Admins Open Source: https://macadmins.io/<br />
