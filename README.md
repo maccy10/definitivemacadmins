@@ -383,6 +383,7 @@ JNUC 2025: https://www.youtube.com/playlist?list=PLlxHm_Px-Ie0DkjJe6xzYhFhwIn2SU
 MacAD.UK: https://www.youtube.com/@MacADUK<br />
 MacAdmins Conference: https://www.youtube.com/@MacAdmins<br />
 Mac Admins Europe: https://www.youtube.com/@MacAdminsEU<br />
+MacAdmins India Connect 2026: https://www.youtube.com/watch?v=2JFU6l_Hvh4&list=PLelcCocSewHs<br />
 MacDevOpsYVR: https://www.youtube.com/c/MDOYVR<br />
 University of Utah MacAdmins: https://stream.lib.utah.edu/index.php?c=browse&m=results&q=%22mac+manager%22&cat=&sort=newest<br />
 
