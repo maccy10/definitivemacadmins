@@ -43,6 +43,7 @@ Apple Device Support Tutorials | Apple Training: https://it-training.apple.com/t
 Apple Education:  https://www.apple.com/education/<br />
 Apple Environment:  https://www.apple.com/environment/<br />
 Apple Events - Apple: https://www.apple.com/apple-events/<br />
+Apple Github: https://github.com/APPLE<br />
 Apple IT Training: https://training.apple.com/it<br />
 Apple Legal: https://www.apple.com/legal/<br />
 Apple Newsroom: https://www.apple.com/newsroom/<br />
