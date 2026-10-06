@@ -300,6 +300,7 @@ MacAdmins Documentation: https://macadminsdoc.readthedocs.io/en/master/<br />
 Scripting JAMF Best Practices: https://scriptingosx.com/jnuc2020/<br />
 
 ## 🛡️ Security & Compliance<br />
+Apple CVE: https://apple-cve.com<br />
 Apple Allowed Autofill Domains: https://github.com/b0o/apple-autofill-domains<br />
 CISA Known Exploited Vulnerabilities: https://www.cisa.gov/known-exploited-vulnerabilities-catalog<br />
 macOS Security Compliance Project - Apple Support: https://support.apple.com/guide/certifications/macos-security-compliance-project-apc322685bb2/web<br />
