@@ -178,8 +178,10 @@ Bash OneLiner: https://github.com/onceupon/Bash-Oneliner<br />
 Baseline: https://github.com/secondsonconsulting/baseline<br />
 BBEdit: https://www.barebones.com/products/bbedit/<br />
 Bezel: https://getbezel.app<br />
+Blueprint Managed Preferences Editor: https://github.com/JordyThery/Blueprint-Managed-Preferences-Editor<br />
 Bootstrap Buddy: https://github.com/Inetum-Poland/bootstrap-buddy<br />
 Box of Apples: https://boa.decompiler.dev/<br />
+Checkpoint: https://github.com/JordyThery/Checkpoint<br />
 CodeLobster: https://codelobster.com/<br />
 Coderunner 4: https://coderunnerapp.com/download<br />
 Composer: https://www.jamf.com/products/jamf-composer/<br />
@@ -200,6 +202,7 @@ IBM Migration Tool: https://github.com/IBM/mac-ibm-migration-tool<br />
 Icons.app: https://github.com/SAP/macOS-icon-generator<br />
 iMazing Profile Editor: https://imazing.com/profile-editor<br />
 installinstallmacos.py: https://github.com/munki/macadmin-scripts<br />
+Intune Onboard: https://github.com/JordyThery/IntuneOnboard<br />
 Jamf Automation & Webhook Assistant (JAWA): https://github.com/jamf/JAWA<br />
 Jamf Check: https://github.com/txhaflaire/JamfCheck<br />
 Jamf Compliance Editor: https://trusted.jamf.com/docs/establishing-compliance-baselines<br />
@@ -250,6 +253,7 @@ Plist Buddy Finder: https://github.com/8ta4/plist<br />
 Postman: https://www.postman.com/downloads/<br />
 PPPC Utility: https://github.com/jamf/PPPC-Utility<br />
 PrinterSetup: https://github.com/mikaellofgren/PrinterSetup<br />
+Profile2Blueprint: https://github.com/JordyThery/Profile2Blueprint<br />
 ProfileCreator: https://github.com/ProfileCreator/ProfileCreator<br />
 Prune: https://github.com/BIG-RAT/Prune<br />
 Pure Bash Bible: https://github.com/dylanaraps/pure-bash-bible<br />
@@ -264,6 +268,7 @@ Save up to 25% PKG File Size: http://scriptingosx.com/2021/10/save-up-to-25-pkg-
 Script2Pkg: https://github.com/SAP/script-to-package-tool-for-macos<br />
 scriptorium: https://github.com/Honestpuck/scriptorium<br />
 Scott Kendall: https://github.com/ScottEKendall/JAMF-Pro-Scripts<br />
+Serial Number Reader: https://github.com/JordyThery/Serial-Number-Reader<br />
 Setup Your Mac: https://github.com/setup-your-mac/Setup-Your-Mac<br />
 SF Icons: https://github.com/aanklewicz/SFIcons<br />
 Slack: https://slack.com/downloads/osx<br />
