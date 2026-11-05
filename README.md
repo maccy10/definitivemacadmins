@@ -221,6 +221,7 @@ Jamf Recipe Maker: https://grahamrpugh.com/2022/05/03/jamf-recipe-maker.html<br 
 Jamf Replicator: https://github.com/jamf/Replicator<br />
 Jamf Setup Manager: https://github.com/Jamf-Concepts/Setup-Manager<br />
 Just Upgrade and Migrate to Intune: http://github.com/pathaksomesh06/JUMP-IN<br />
+Kilobat: https://kilobat.app/<br />
 Low Profile: https://github.com/ninxsoft/LowProfile<br />
 M.A.C.E. macOS Advanced Compliance Editor: https://github.com/mace-app/mace<br />
 MacAdmins Open Source (macadmins.io): https://github.com/macadmins/macadmins.io<br />
