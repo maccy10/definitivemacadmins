@@ -187,6 +187,7 @@ Coderunner 4: https://coderunnerapp.com/download<br />
 Composer: https://www.jamf.com/products/jamf-composer/<br />
 Desktoppr: https://github.com/scriptingosx/desktoppr<br />
 DFU Blaster:  https://bitbucket.org/twocanoes/dfu-blaster-public/downloads<br />
+DFUUtility: https://github.com/thehallifax/DFUUtility<br />
 Dockutil: https://github.com/kcrawford/dockutil/<br />
 ELEVATE24: https://www.jigsaw24.com/solutions/automation-and-tooling/elevate24<br />
 erase-install: https://github.com/grahampugh/erase-install<br />
