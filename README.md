@@ -103,6 +103,7 @@ John Mahlman: https://yearofthegeek.net<br />
 Kevin M. Cox: https://www.kevinmcox.com<br />
 Kitzy: https://kitzy.com<br />
 Mac Connection Standards: https://macattorney.com/MacConnectionStandards.pdf<br />
+Mac and Windows RMM evaluation checklist: https://nizlo.com/guides/rmm-for-mac-and-windows<br />
 MacLabs: https://maclabs.jazzace.ca/<br />
 MacMule: https://macmule.com<br />
 MacOS Adventures: https://www.macosadventures.com/<br />
